@@ -1,0 +1,79 @@
+body
+{
+	margin:auto;
+	width:1150px;
+}
+
+.p0
+{
+	font-style:normal;
+	color:#1455c7;
+	font-weight:bold;
+	font-size:50px;
+	text-shadow: 2px 3px 7px black;
+	line-height:60px;
+
+}
+
+@font-face
+{
+	font-family:fontcuatui;
+	src:url(black_jack.ttf);
+}
+
+.p1
+{
+	font-family:fontcuatui;
+	color:#1196bf;
+	letter-spacing:2px;
+	line-height:50px;
+}
+
+.p2
+{
+    color:#1196bf;
+	float:left; 
+	font-family:Calibri;
+	
+	
+}
+
+.p21
+{
+	text-indent:4px;
+	float:left;
+	color:#2c3036;
+	font-weight:bold;
+	font-family:Calibri;
+}
+
+.p22
+{
+	float:left;
+	color:#424238;
+	font-family:Calibri;
+}
+.p3
+{
+	clear:both;
+	color:#1196bf;
+	line-height:50px;
+	font-size:20px;
+}
+
+.p4
+{
+	
+	color:#424238;
+	font-family:Calibri;
+}
+
+.p5
+{
+	font-family:Calibri;
+	color:#424238;
+	font-style:italic;
+	float:right;
+	margin-right:15px;
+}
+
